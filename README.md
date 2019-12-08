@@ -1,0 +1,5 @@
+## Run
+
+```
+$ parcel index.html
+```
